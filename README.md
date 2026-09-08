@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard Pro o
+# 🌦️ Weather Dashboard Pro 
 > **A sophisticated React weather application featuring a premium Glassmorphism design and real-time precision.**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-brightgreen?style=for-the-badge&logo=google-chrome)](https://khadijaalarzg24.github.io/weather-api-react/)
